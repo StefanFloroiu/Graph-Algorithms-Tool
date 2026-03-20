@@ -11,7 +11,7 @@ It serves as a practical implementation of core algorithms and advanced Object-O
 
 ### 🛠️ Key Features
 
-* **Pathfinding Algorithms:** Implements **Dijkstra’s Algorithm** for weighted graphs (`O(E log V)`) and **BFS** for unweighted shortest paths.
+* **Pathfinding Algorithms:** Implements **Dijkstra’s Algorithm** for weighted graphs (`\O(ElogV)`) and **BFS** for unweighted shortest paths.
 
 * **OOP Architecture:** Modular design using classes for `Graph`, `Node`, and `Edge` to ensure **encapsulation** and **maintainability**.
 
