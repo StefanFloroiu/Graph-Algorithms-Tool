@@ -4,7 +4,7 @@
 
 ### 🚀 Description
 
-This project is a C++ Command Line Interface (CLI) application designed to solve shortest-path problems in graphs[cite: 27, 28]. 
+This project is a C++ Command Line Interface (CLI) application designed to solve shortest-path problems in graphs. 
 
 It serves as a practical implementation of core algorithms and advanced Object-Oriented Programming (OOP) principles studied at **FMI UniBuc**.
 
